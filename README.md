@@ -1,5 +1,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/f43594f06739f1de6901/maintainability)](https://codeclimate.com/github/Toskgreg/LuminousWayy/maintainability)
 [![Build Status](https://travis-ci.org/Toskgreg/LuminousWayy.svg?branch=master)](https://travis-ci.org/Toskgreg/LuminousWayy)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4019c1d60dee4c9b84144ee6d749f190)](https://www.codacy.com/app/Toskgreg/LuminousWayy?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Toskgreg/LuminousWayy&amp;utm_campaign=Badge_Grade)
 # LuminousWay
 LuminousWay is a biblestudy application that provides users with the ability to ask others to join them for biblestudies and have other users request to join the biblestudies
 
