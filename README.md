@@ -14,7 +14,7 @@ LuminousWay is a platform where people can request others to join them for bible
 
 ## Link to LuminousWay API hosted on heroku
 
-[LuminousWay_api](https://LuminousWay12.herokuapp.com/api/v1/biblestudies/)
+[LuminousWay_api]( https://luminousway.herokuapp.com/)
 
 ### Tools
 
