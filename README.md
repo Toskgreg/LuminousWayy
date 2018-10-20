@@ -1,4 +1,4 @@
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/f43594f06739f1de6901/maintainability)](https://codeclimate.com/github/Toskgreg/LuminousWayy/maintainability)
 # LuminousWay
 LuminousWay is a biblestudy application that provides users with the ability to ask others to join them for biblestudies and have other users request to join the biblestudies
 
